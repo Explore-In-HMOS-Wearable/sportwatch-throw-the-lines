@@ -1,0 +1,85 @@
+@import '../../common/styles/base.css';
+
+.start-screen {
+    justify-content: center;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+
+.hero-circle {
+    width: 180px;
+    height: 180px;
+    border-radius: 90px;
+    background-color: #1a1a1a;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 22px;
+}
+
+.hero-label {
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 54px;
+}
+
+.action-button {
+    margin-bottom: 16px;
+}
+
+.game-screen {
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.level-title {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.game-stage {
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.game-canvas {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}
+
+.fallback-circle {
+    width: 96px;
+    height: 96px;
+    border-radius: 48px;
+    background-color: #1a1a1a;
+    align-items: center;
+    justify-content: center;
+}
+
+.fallback-level {
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.info-text {
+    width: 100%;
+    text-align: center;
+    color: #1a1a1a;
+    font-size: 22px;
+    margin-bottom: 6px;
+}
+
+.foundation-note {
+    width: 90%;
+    text-align: center;
+    color: #666666;
+    font-size: 18px;
+}

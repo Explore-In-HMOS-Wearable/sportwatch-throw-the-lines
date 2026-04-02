@@ -1,0 +1,45 @@
+.container {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f2ede4;
+}
+
+.screen {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    color: #1a1a1a;
+}
+
+.subtitle {
+    width: 100%;
+    text-align: center;
+    color: #5d5d5d;
+}
+
+.btn-primary {
+    width: 80%;
+    height: 88px;
+    border-radius: 44px;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.btn-secondary {
+    width: 80%;
+    height: 88px;
+    border-radius: 44px;
+    background-color: #d9d1c5;
+    color: #1a1a1a;
+    font-size: 28px;
+}

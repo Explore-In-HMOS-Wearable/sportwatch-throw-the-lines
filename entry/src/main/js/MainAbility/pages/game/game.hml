@@ -1,0 +1,6 @@
+<div class="container" style="background-color: {{isLevelComplete ? '#27AE60' : isGameOver ? '#E74C3C' : '#F2EDE4'}};" ontouchend="onTouchEnd">
+    <canvas
+            id="game-canvas"
+            ref="gameCanvas">
+    </canvas>
+</div>

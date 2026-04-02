@@ -1,0 +1,8 @@
+<div class="container">
+    <div class="screen start-screen" if="{{ isStartScreen }}">
+        <div class="hero-circle">
+            <text class="hero-label">TL</text>
+        </div>
+        <input class="btn-primary action-button" type="button" value="New Game" onclick="startNewGame"></input>
+    </div>
+</div>

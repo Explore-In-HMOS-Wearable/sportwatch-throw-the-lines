@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F2EDE4;
+}
+
+#game-canvas {
+    width: 454px;
+    height: 454px;
+}
+
+.bottom-text {
+    margin-top: 12px;
+    height: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
